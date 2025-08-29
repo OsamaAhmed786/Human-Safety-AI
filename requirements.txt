@@ -1,0 +1,9 @@
+streamlit
+nltk
+spacy
+pydub
+audio-recorder-streamlit
+torch
+sentencepiece
+SpeechRecognition
+numpy
